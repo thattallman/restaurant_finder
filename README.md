@@ -19,6 +19,10 @@ DockerHub image
 ```bash
      https://hub.docker.com/r/thattallman/restaurant_finder  
 ```
+Mongo URL with sample data  
+```bash
+mongodb+srv://spaarks:root@cluster0.f0pnhrv.mongodb.net/Spaarks?retryWrites=true&w=majority&appName=Cluster0
+```
  Using Docker (RUN following commands)
 
 ```bash
