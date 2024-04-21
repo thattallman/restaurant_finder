@@ -157,3 +157,13 @@ to run this project locally , you will need to add the following environment var
 
 
 
+
+## Screenshots
+
+
+![Image 21-04-24 at 6 13 PM](https://github.com/thattallman/restaurant_finder/assets/82497615/073ae3b1-c2d4-4815-9f4f-015482803716)
+
+
+
+![Image 21-04-24 at 6 16 PM](https://github.com/thattallman/restaurant_finder/assets/82497615/21d4bb84-2fd5-4487-aac4-afb274145370)
+
